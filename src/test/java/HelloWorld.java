@@ -5,6 +5,8 @@ public class HelloWorld {
 
         System.out.println("Hello Word!");
 
+        //satır ekledim
+
     }
 
 }
